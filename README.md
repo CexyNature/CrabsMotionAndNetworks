@@ -12,7 +12,7 @@ A list with all R scripts and their description can be found inside the [R direc
 
 ## Project structure:
 
-"""
+```
 Project_name/
 |--- README.md
 |--- R_Ch2_Methods.Rproj
@@ -33,7 +33,7 @@ Project_name/
 	|--- img_repo/
 		|--- Crab_movement_animation.gif
 		|--- GP010016_fast_network.png
-"""
+```
 
 ![](src/img_repo/Crab_movement_animation.gif)
 
